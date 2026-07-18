@@ -1,4 +1,4 @@
-# Cloud Computing (AWS Services)
+# Cloud Computing (AWS Services
 
 This repository contains practical screenshots and notes of various AWS cloud services, organized service-wise for easy learning and revision.
 
